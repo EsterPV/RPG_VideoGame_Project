@@ -1,0 +1,1 @@
+Para poder probar el juego solo es necesario descomprimir el archivo y ejecutar el fichero .exe
