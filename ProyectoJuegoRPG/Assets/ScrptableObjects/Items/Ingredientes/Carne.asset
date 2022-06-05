@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ae7aacd43ae2640973fac8b46e5f37, type: 3}
+  m_Name: Carne
+  m_EditorClassIdentifier: 
+  ID: Carne
+  Nombre: Carne
+  Icono: {fileID: 21300000, guid: b2476340f91c6d44fa9236786cc3400c, type: 3}
+  Descripcion: Carne de animal, no sabemos cual pero huele deliciosa. Sirve para
+    crear recetas.
+  Tipo: 3
+  esConsumible: 1
+  esAcumulable: 1
+  AcumulacionMax: 20
+  Cantidad: 0

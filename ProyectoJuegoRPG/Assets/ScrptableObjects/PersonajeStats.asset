@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab063af95043394f88d8a6d0adfe5b9, type: 3}
+  m_Name: PersonajeStats
+  m_EditorClassIdentifier: 
+  Danho: 5
+  Defensa: 2
+  Velocidad: 5
+  Nivel: 0
+  ExpActual: 0
+  ExpReq: 0
+  PorcentajeCritico: 0
+  PorcentajeBloqueo: 0
+  Fuerza: 0
+  Inteligencia: 0
+  Destreza: 0
+  puntosDisponibles: 0

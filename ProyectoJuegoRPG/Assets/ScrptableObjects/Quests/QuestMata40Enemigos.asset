@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86efe0d4938f0af488625bb3041c757c, type: 3}
+  m_Name: QuestMata40Enemigos
+  m_EditorClassIdentifier: 
+  nombre: Gran Cazador
+  ID: Mata40
+  cantidadObjetivo: 15
+  descripcion: Derrota 15 enemigos para conseguir recompensas!
+  recompensaOro: 500
+  recompensaExp: 100
+  recompensaItem:
+    item: {fileID: 11400000, guid: 2f137a52e31f3be4a9859d8b4d38e987, type: 2}
+    cantidad: 50
+  cantidadActual: 0
+  questCompletado: 0
